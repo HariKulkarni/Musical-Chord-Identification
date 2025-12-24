@@ -88,5 +88,4 @@ Allows users to upload audio files and view predicted chord output.
 ## 👤 Author
 
 **Harish H Kulkarni**  
-Bengaluru ail: kulkarniharish4100@gmail.com  
-LinkedIn: https://www.linkedin.com/in/kulkarni
+
