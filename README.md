@@ -88,7 +88,5 @@ Allows users to upload audio files and view predicted chord output.
 ## 👤 Author
 
 **Harish H Kulkarni**  
-Java Developer | Machine Learning Enthusiast  
-Bengaluru  
-Email: kulkarniharish4102000@gmail.com  
+Bengaluru ail: kulkarniharish4100@gmail.com  
 LinkedIn: https://www.linkedin.com/in/kulkarni
